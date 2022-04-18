@@ -7,6 +7,8 @@ function LogIn() {
     <h1>Sign up</h1>
     <div className="inputs">
         
+
+        :)
         <div id="from">
     <label for="name">Login</label>
     <input type="text" placeholder="Login" id="name" name="user_name"/>
