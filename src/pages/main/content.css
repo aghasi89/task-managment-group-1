@@ -1,0 +1,22 @@
+.content{
+    display: flex;
+
+}
+
+.userField{
+    width: 50%;
+    height: 600px;
+    background-image: url(https://images.pexels.com/photos/416528/pexels-photo-416528.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    background-size: cover;
+}
+
+.projectField{
+    width: 50%;
+    height: 600px;
+    background-image: url(https://images.pexels.com/photos/734973/pexels-photo-734973.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    background-size: 90vmin;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-left: 2px solid white;
+}
+

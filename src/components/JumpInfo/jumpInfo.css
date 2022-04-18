@@ -1,0 +1,44 @@
+.jumpinfo{
+    width: 650px;
+    background-color: white;
+position: absolute;
+left: 550px;
+top:20px;
+border-radius: 50px;
+}
+
+.jumplogo1{
+    width: 90px;
+    height: 90px;
+    background-image: url(https://img.icons8.com/color/2x/youtube-squared.png);
+    background-size: cover;
+
+}
+
+.jumplogo2{
+    width: 90px;
+    height: 90px;
+    background-image: url(https://img.icons8.com/external-justicon-lineal-color-justicon/2x/external-linkedin-social-media-justicon-lineal-color-justicon.png);
+    background-size: contain;
+}
+
+.jumplogo3{
+    width: 90px;
+    height: 90px;
+    background-image: url(https://img.icons8.com/fluency/2x/twitter.png);
+    background-size: cover;
+}
+
+.jumplogos{
+    display: flex;
+    justify-content: space-around;
+    
+    align-content: center;
+    margin-top: 30px;
+}
+
+.jumpmessage{
+    font-size: 40px;
+    color: red;
+    font-weight: bolder;
+}
